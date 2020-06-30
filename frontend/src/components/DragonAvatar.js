@@ -1,41 +1,39 @@
-import React, { Component } from "react";
+import React, { Component } from 'react';
 import {
   patchy,
-  skinny,
-  stocky,
   plain,
-  striped,
-  spotted,
+  skinny,
   slender,
-  sporty
-} from "../assets";
+  sporty,
+  stocky,
+  spotted,
+  striped,
+} from '../assets';
 
 const propertyMap = {
   backgroundColor: {
-    black: "#263238",
-    white: "#cfd8dc",
-    green: "#a5d6a7",
-    blue: "#0277bd"
+    black: '#263238',
+    white: '#cfd8dc',
+    green: '#a5d6a7',
+    blue: '#0277bd',
   },
   build: { slender, stocky, sporty, skinny },
   pattern: { plain, striped, spotted, patchy },
-  size: { small: 100, medium: 140, large: 180, enormus: 220 }
+  size: { small: 100, medium: 140, large: 180, enormus: 220 },
 };
 
 class DragonAvatar extends Component {
   get DragonImage() {
     const dragonPropertyMap = {};
-
-    this.props.dragon.traits.forEach(trait => {
+    this.props.dragon.traits.forEach((trait) => {
       const { traitType, traitValue } = trait;
       dragonPropertyMap[traitType] = propertyMap[traitType][traitValue];
     });
 
-    //console.log(dragonPropertyMap);
     const { backgroundColor, build, pattern, size } = dragonPropertyMap;
     const sizing = {
       height: size,
-      width: size
+      width: size,
     };
 
     return (
@@ -44,7 +42,7 @@ class DragonAvatar extends Component {
           className="dragon-avatar-image-background "
           style={{
             backgroundColor,
-            ...sizing
+            ...sizing,
           }}
         />
         <img
@@ -69,7 +67,7 @@ class DragonAvatar extends Component {
         <h3>Dragon</h3>
         <span>G{generationId}. </span>
         <span>I{dragonId}. </span>
-        {traits.map(trait => trait.traitValue).join(",")}
+        {traits.map((trait) => trait.traitValue).join(',')}
         {this.DragonImage}
       </div>
     );
