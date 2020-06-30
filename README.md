@@ -32,7 +32,7 @@ https://www.udemy.com/course/full-stack/
 
 ## ENJOY!!
 
-<h3 style="color:red;" > RED EDITION COMING SOON !! </h3>
+<h3> <span style="color:red;" > RED EDITION COMING SOON !! </span> </h3>
 
 |                                                                  |                                                                  |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
