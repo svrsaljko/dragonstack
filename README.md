@@ -12,4 +12,4 @@ https://www.udemy.com/course/full-stack/
 
 ### Collect random dragon
 
-<img src="./readmeImages/dragonstack3.png" width="900" height="400" >
+<img src="./readmeImages/dragonstack3.PNG" width="900" height="400" >
