@@ -8,4 +8,4 @@ https://www.udemy.com/course/full-stack/
 
 ### Collect more than mother of dragons
 
-<img src="./readmeImages/dragonstack2.png" width="900" height="400" >
+<img src="./readmeImages/dragonstack2.jpg" width="900" height="400" >
