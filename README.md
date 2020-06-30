@@ -19,5 +19,5 @@ https://www.udemy.com/course/full-stack/
 |                                                                 |                                                                 |                                                                 |
 | :-------------------------------------------------------------: | :-------------------------------------------------------------: | :-------------------------------------------------------------: |
 | <img  alt="dragon image" src="./readmeImages/dragonstack4.png"> | <img  alt="dragon image" src="./readmeImages/dragonstack5.png"> | <img  alt="dragon image" src="./readmeImages/dragonstack6.png"> |
-| <img  alt="dragon image" src="./readmeImages/dragonstack7.png"> | <img  alt="dragon image" src="./readmeImages/dragonstack4.png"> | <img  alt="dragon image" src="./readmeImages/dragonstack4.png"> | <img  alt="dragon image" src="./readmeImages/dragonstack4.png"> |
+| <img  alt="dragon image" src="./readmeImages/dragonstack7.png"> | <img  alt="dragon image" src="./readmeImages/dragonstack8.png"> | <img  alt="dragon image" src="./readmeImages/dragonstack4.png"> | <img  alt="dragon image" src="./readmeImages/dragonstack4.png"> |
 | <img  alt="dragon image" src="./readmeImages/dragonstack4.png"> | <img  alt="dragon image" src="./readmeImages/dragonstack4.png"> | <img  alt="dragon image" src="./readmeImages/dragonstack4.png"> |
