@@ -10,7 +10,7 @@ https://www.udemy.com/course/full-stack/
 
 <img alt="dragon image" src="./readmeImages/dragonstack2.jpg">
 
-### Collect random dragon ...
+### Collect random dragons ...
 
 <img alt="dragon image" src="./readmeImages/dragonstack3.PNG">
 
@@ -22,9 +22,9 @@ https://www.udemy.com/course/full-stack/
 | <img  alt="dragon image" src="./readmeImages/dragonstack7.png">  | <img  alt="dragon image" src="./readmeImages/dragonstack8.png">  | <img  alt="dragon image" src="./readmeImages/dragonstack9.png">  | <img  alt="dragon image" src="./readmeImages/dragonstack10.png"> |
 | <img  alt="dragon image" src="./readmeImages/dragonstack11.png"> | <img  alt="dragon image" src="./readmeImages/dragonstack12.png"> | <img  alt="dragon image" src="./readmeImages/dragonstack13.png"> |
 
-### 4 diffrent colours, 4 diffrent builds, 4 diffrent sizes, 4 diffrent patterns
+### 4 different colours, 4 different builds, 4 different sizes, 4 different patterns ...
 
-### Makes 256 possible combinations
+### Makes 256 possible combinations!
 
 ### Every dragon comes from his generation, that makes your dragon more unique!
 
