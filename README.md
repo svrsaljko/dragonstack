@@ -32,11 +32,12 @@ https://www.udemy.com/course/full-stack/
 
 ## ENJOY!!
 
-### RED EDITION COMING SOON !
+### <font color='red'> RED EDITION COMING SOON ! </font>
 
-|                                                                  |                                                                  |
-| :--------------------------------------------------------------: | ---------------------------------------------------------------- |
-| :--------------------------------------------------------------: |
+|     |     |
+| :-: | --- |
+
+
 | <img  alt="dragon image" src="./readmeImages/dragonstack15.png"> | <img  alt="dragon image" src="./readmeImages/dragonstack16.png"> |
 | <img  alt="dragon image" src="./readmeImages/dragonstack16.png"> | <img  alt="dragon image" src="./readmeImages/dragonstack17.png"> |
 
