@@ -32,4 +32,4 @@ https://www.udemy.com/course/full-stack/
 
 ## ENJOY!!
 
-<img  alt="dragon image" src="./readmeImages/dragonstack14.png">
+<img  alt="dragon image" src="./readmeImages/dragonstack14.jpg">
