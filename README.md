@@ -16,8 +16,8 @@ https://www.udemy.com/course/full-stack/
 
 ### With random traits ...
 
-|                                                                                    |                                                                            |                                                                            |
-| :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
-| <img width="300" alt="dragon image" src="./readmeImages/dragonstack4.PNG"> comment | <img width="300" alt="dragon image" src="./readmeImages/dragonstack4.PNG"> | <img width="300" alt="dragon image" src="./readmeImages/dragonstack4.PNG"> | <img width="300" alt="dragon image" src="./readmeImages/dragonstack4.PNG"> |
-|     <img width="300" alt="dragon image" src="./readmeImages/dragonstack4.PNG">     | <img width="300" alt="dragon image" src="./readmeImages/dragonstack4.PNG"> | <img width="300" alt="dragon image" src="./readmeImages/dragonstack4.PNG"> |
-|     <img width="300" alt="dragon image" src="./readmeImages/dragonstack4.PNG">     | <img width="300" alt="dragon image" src="./readmeImages/dragonstack4.PNG"> | <img width="300" alt="dragon image" src="./readmeImages/dragonstack4.PNG"> |
+|                                                                            |                                                                            |                                                                            |
+| :------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------------------------: |
+| <img width="300" alt="dragon image" src="./readmeImages/dragonstack4.PNG"> | <img width="300" alt="dragon image" src="./readmeImages/dragonstack4.PNG"> | <img width="300" alt="dragon image" src="./readmeImages/dragonstack4.PNG"> | <img width="300" alt="dragon image" src="./readmeImages/dragonstack4.PNG"> |
+| <img width="300" alt="dragon image" src="./readmeImages/dragonstack4.PNG"> | <img width="300" alt="dragon image" src="./readmeImages/dragonstack4.PNG"> | <img width="300" alt="dragon image" src="./readmeImages/dragonstack4.PNG"> |
+| <img width="300" alt="dragon image" src="./readmeImages/dragonstack4.PNG"> | <img width="300" alt="dragon image" src="./readmeImages/dragonstack4.PNG"> | <img width="300" alt="dragon image" src="./readmeImages/dragonstack4.PNG"> |
