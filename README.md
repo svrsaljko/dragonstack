@@ -1,4 +1,4 @@
-<img src="./readmeImages/dragonstack1.png" width="900" height="400" >
+<img alt="dragon image" src="./readmeImages/dragonstack1.png" width="900" height="400" >
 
 # DRAGON STACK
 
@@ -8,11 +8,11 @@ https://www.udemy.com/course/full-stack/
 
 ### Collect more than mother of dragons ...
 
-<img src="./readmeImages/dragonstack2.jpg" width="800" height="450" >
+<img alt="dragon image" src="./readmeImages/dragonstack2.jpg" width="800" height="450" >
 
 ### Collect random dragon ...
 
-<img src="./readmeImages/dragonstack3.PNG" width="900" height="400" >
+<img alt="dragon image" src="./readmeImages/dragonstack3.PNG" width="900" height="400" >
 
 ### With random traits ...
 
@@ -24,6 +24,12 @@ https://www.udemy.com/course/full-stack/
 
 ### 4 diffrent colours, 4 diffrent builds, 4 diffrent sizes, 4 diffrent patterns
 
-### makes 4x4x4x4 = 256 possible combinations
+### Makes 256 possible combinations
 
-### every dragon comes from his generation, that makes your dragon more unique!
+### Every dragon comes from his generation, that makes your dragon more unique!
+
+### git clone && cd backend/ && npm run configure && cd.. && nf start
+
+## ENJOY!!
+
+<img  alt="dragon image" src="./readmeImages/dragonstack14.png">

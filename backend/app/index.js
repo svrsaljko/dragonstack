@@ -1,23 +1,23 @@
-const GenerationEngine = require("./generation/engine.js");
-const express = require("express");
-const cors = require("cors");
-const dragonRouter = require("../api/dragon.js");
-const generationRouter = require("../api/generation.js");
+const GenerationEngine = require('./generation/engine.js');
+const express = require('express');
+const cors = require('cors');
+const dragonRouter = require('../api/dragon.js');
+const generationRouter = require('../api/generation.js');
 
 const app = express();
 const engine = new GenerationEngine();
 
-app.use(cors({ origin: "http://localhost:1234" }));
+app.use(cors({ origin: ['http://localhost:5100', 'http://localhost:1234'] }));
 app.locals.engine = engine;
 //console.log("lokalne varijable:", app.locals.engine);
-app.use("/dragon", dragonRouter);
-app.use("/generation", generationRouter);
+app.use('/dragon', dragonRouter);
+app.use('/generation', generationRouter);
 
 app.use((err, req, res, next) => {
   const statusCode = err.statusCode || 500;
   res.status(statusCode).json({
-    type: "error",
-    message: err.message
+    type: 'error',
+    message: err.message,
   });
 });
 
