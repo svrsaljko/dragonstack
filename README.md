@@ -1,4 +1,4 @@
-<img alt="dragon image" src="./readmeImages/dragonstack1.png" width="900" height="400" >
+<img alt="dragon image" src="./readmeImages/dragonstack1.png">
 
 # DRAGON STACK
 
@@ -8,11 +8,11 @@ https://www.udemy.com/course/full-stack/
 
 ### Collect more than mother of dragons ...
 
-<img alt="dragon image" src="./readmeImages/dragonstack2.jpg" width="800" height="450" >
+<img alt="dragon image" src="./readmeImages/dragonstack2.jpg">
 
 ### Collect random dragon ...
 
-<img alt="dragon image" src="./readmeImages/dragonstack3.PNG" width="900" height="400" >
+<img alt="dragon image" src="./readmeImages/dragonstack3.PNG">
 
 ### With random traits ...
 
