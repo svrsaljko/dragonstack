@@ -1,32 +1,32 @@
-import React from "react";
-import DragonAvatar from "./DragonAvatar";
-import { Button } from "react-bootstrap";
+import React from 'react';
+import DragonAvatar from './DragonAvatar';
+import { Button } from 'react-bootstrap';
 
 const DEFAULT_DRAGON = {
-  dragonId: " ",
-  birthdate: " ",
-  nickname: " ",
-  generationId: " ",
-  traits: []
+  dragonId: ' ',
+  birthdate: ' ',
+  nickname: ' ',
+  generationId: ' ',
+  traits: [],
 };
 
 class Dragon extends React.Component {
   state = {
-    dragon: DEFAULT_DRAGON
+    dragon: DEFAULT_DRAGON,
   };
   componentDidMount() {
     //this.fetchDragon();
   }
 
   fetchDragon = () => {
-    fetch("http://localhost:3000/dragon/new").then(response => {
+    fetch('http://localhost:3000/dragon/new').then((response) => {
       response
         .json()
-        .then(json => {
+        .then((json) => {
           //console.log(json.dragon.traits);
           this.setState({ dragon: json.dragon });
         })
-        .catch(error => console.error(error));
+        .catch((error) => console.error(error));
     });
   };
 
@@ -35,7 +35,9 @@ class Dragon extends React.Component {
     //console.log(this.state.dragon);
     return (
       <div>
-        <Button onClick={this.fetchDragon}>New dragon</Button>
+        <Button className="new-dragon-button" onClick={this.fetchDragon}>
+          New dragon
+        </Button>
         <DragonAvatar dragon={this.state.dragon} />
       </div>
     );

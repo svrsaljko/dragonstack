@@ -16,6 +16,8 @@ https://www.udemy.com/course/full-stack/
 
 ### With random traits ...
 
+![Dragons-gif](./readmeImages/dragonstackgif.gif)
+
 |                                                                  |                                                                  |                                                                  |
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
 | <img  alt="dragon image" src="./readmeImages/dragonstack4.png">  | <img  alt="dragon image" src="./readmeImages/dragonstack5.png">  | <img  alt="dragon image" src="./readmeImages/dragonstack6.png">  |

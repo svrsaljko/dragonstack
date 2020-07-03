@@ -8,6 +8,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  min-height: 230px;
 }
 
 .dragon-avatar-image-pattern {
@@ -20,4 +21,8 @@ body {
 
 .dragon-avatar-image {
   z-index: 0;
+}
+
+.new-dragon-button:hover {
+  cursor: pointer;
 }
