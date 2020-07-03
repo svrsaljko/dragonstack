@@ -18,12 +18,6 @@ https://www.udemy.com/course/full-stack/
 
 ![Dragons-gif](./readmeImages/dragonstackgif.gif)
 
-|                                                                  |                                                                  |                                                                  |
-| :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-| <img  alt="dragon image" src="./readmeImages/dragonstack4.png">  | <img  alt="dragon image" src="./readmeImages/dragonstack5.png">  | <img  alt="dragon image" src="./readmeImages/dragonstack6.png">  |
-| <img  alt="dragon image" src="./readmeImages/dragonstack7.png">  | <img  alt="dragon image" src="./readmeImages/dragonstack8.png">  | <img  alt="dragon image" src="./readmeImages/dragonstack9.png">  | <img  alt="dragon image" src="./readmeImages/dragonstack10.png"> |
-| <img  alt="dragon image" src="./readmeImages/dragonstack11.png"> | <img  alt="dragon image" src="./readmeImages/dragonstack12.png"> | <img  alt="dragon image" src="./readmeImages/dragonstack13.png"> |
-
 ### 4 different colours, 4 different builds, 4 different sizes, 4 different patterns ...
 
 ### Makes 256 possible combinations!
